@@ -6,4 +6,4 @@ You can find the game being hosted at https://springyspring04.github.io/Chishiki
 Alternatively, there is a Windows build at my [ChishikiWin](https://github.com/SpringySpring04/ChishikiWin) repository.
 
 ## License
-GNU GPL v3.0
+GNU GPL v3.0 - see LICENSE for more info.
